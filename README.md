@@ -34,3 +34,4 @@ Link: https://www.youtube.com/@stacknfreedom
 
 Email: ale_jablonski@hotmail.com  
 Linkedin: https://www.linkedin.com/in/alessandro-jablonski/
+CV: https://drive.google.com/file/d/1qhJLHW-RUtqB6IWKOOjwZv3EGvcqfU2I/view?usp=sharing
