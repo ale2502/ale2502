@@ -33,5 +33,5 @@ Link: https://www.youtube.com/@stacknfreedom
 ## Let's Connect
 
 Email: ale_jablonski@hotmail.com  
-Linkedin: https://www.linkedin.com/in/alessandro-jablonski/
-CV: https://drive.google.com/file/d/1qhJLHW-RUtqB6IWKOOjwZv3EGvcqfU2I/view?usp=sharing
+Linkedin: https://www.linkedin.com/in/alessandro-jablonski/<br>
+[Alessandro's CV](https://drive.google.com/file/d/1qhJLHW-RUtqB6IWKOOjwZv3EGvcqfU2I/view?usp=sharing)
