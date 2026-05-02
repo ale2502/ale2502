@@ -11,7 +11,7 @@ A few years later, I decided to make the move and study at Dev Academy, doing a 
 ## Projects
 
 ### Workout Log Tracker
-A simple and powerful work-in-progress workout tracking app with focus on reps in reserve (RIR). Stack: TS, React, Node.js, SQLite3
+A simple and powerful work-in-progress workout tracking app with focus on reps in reserve (RIR). Stack: TS, React Native, Node.js, SQLite3
 
 - Track workouts and progress
 - Clean UI and fast interactions
