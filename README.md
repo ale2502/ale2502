@@ -1,4 +1,4 @@
-# Hi, I'm Alessandro 👋
+# Hi, I'm Alessandro Jablonski
 
 I'm a Civil Engineer turned Web Developer based in Auckland, New Zealand 🇳🇿.<br><br>
 I always enjoyed STEM fields, this was one of the reasons I studied Civil Engineering, however, I was born with the internet and always had a passion for it, which I neglected for over a decade. In 2022 I started working for a SaaS company in Christchurch, as a designer/engineer, and slowly got in touch with the IT side of things.<br><br>
