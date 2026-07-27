@@ -19,7 +19,8 @@ A simple and powerful work-in-progress workout tracking app with focus on reps i
 - Built with modern web technologies
 
 GitHub: https://github.com/ale2502/workout-log-app-mobile-v2<br>
-Live web app demo: https://workout-log-app-mobile-v2.onrender.com
+Live web app demo: https://workout-log-app-mobile-v2.onrender.com<br>
+*obs: it might take 1 minute to load the API
 
 ## Currently Working On
 
