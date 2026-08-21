@@ -6,7 +6,7 @@ A few years later, I decided to make the move and study at Dev Academy, doing a 
 I’m also very ambitious and love to discuss entrepreneurial ideas. I believe every person on this planet is a salesperson, regardless of whether they have a job or not. This is the most important sector of any business. The beauty of sales is that you harvest what you plant, you are 100% responsible for the results, whether they are good or bad.
 
 ## Tech Stack
-
+ 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,git,github)](https://skillicons.dev)
 
 ## Projects
