@@ -35,6 +35,7 @@ Link: https://www.youtube.com/@stacknfreedom
 
 ## Let's Connect
 
-Email: ale_jablonski@hotmail.com  
+Email: ale_jablonski@hotmail.com
+Portfolio website: https://www.alessandrojablonski.com<br>
 Linkedin: https://www.linkedin.com/in/alessandro-jablonski/<br>
 [Alessandro's CV](https://drive.google.com/file/d/1qhJLHW-RUtqB6IWKOOjwZv3EGvcqfU2I/view?usp=sharing)
